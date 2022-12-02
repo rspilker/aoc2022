@@ -1,2 +1,3 @@
-# aoc2022
-Advent Of Code 2022
+#Advent Of Code 2022
+
+Written in [Pony](https://www.ponylang.io/).
